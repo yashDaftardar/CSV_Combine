@@ -18,7 +18,7 @@ $ python ./csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > 
 
 Through command line: 
 ```
-$ python -m unittest test.py
+$ python -m unittest test_csv.py
 ```
 
 ## Example Output of csv_combiner.py
