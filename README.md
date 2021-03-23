@@ -15,7 +15,7 @@ Through command line:
 $ python ./csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
 
-## test_csv_combiner.py Usage
+## test_csv.py Usage
 
 Through command line: 
 ```
