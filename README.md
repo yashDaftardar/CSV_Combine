@@ -6,6 +6,7 @@ A solution to PMG's csv-combiner challenge.
 
 - Python 3.9.1
 - pandas
+- dask
 
 ## csv_combiner.py Usage
 
