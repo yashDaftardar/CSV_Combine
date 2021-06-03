@@ -1,7 +1,3 @@
-# PMG Programming Challenge Solution
-
-A solution to PMG's csv-combiner challenge. 
-
 ## Language and Third-party Library
 
 - Python 3.9.1
